@@ -16,3 +16,5 @@ This project uses Hugging Face and unitary.ai NLP models to perform the followin
 3.) Generate profiles using fine-tuned GPT-2 model, ensuring that both the user is not passing in a harmful profile and the user is not shown a harmful profile.
 - Models used: Fine-tuned GPT-2, Detoxify
 - File: finetuned_gen.ipynb
+
+While the final iteration of this project will include a front end for a user to utilize, this repository showcases the code I wrote for this project.
